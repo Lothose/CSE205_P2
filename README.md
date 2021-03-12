@@ -10,4 +10,6 @@ Brandon Billmeyer, bbillmey@asu.edu
 
 Delaney Claussen, djclaus1@asu.edu
 
+Taylor Hedrick, tmhedric@asu.edu
+
 Files are intended of educational purposes and storage of code written while a student of CSE205. 
